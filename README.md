@@ -1,5 +1,5 @@
 <h1 align='center'>:electron:Cs-350-R4870-Emerging-Sys-Arch-Tech-Project🔌</h1>
-![](https://github.com/intondiscott/Cs-350-R4870-Emerging-Sys-Arch-Tech-Project/blob/master/helloworld.gif)
+<div align='center'><img src='https://github.com/intondiscott/Cs-350-R4870-Emerging-Sys-Arch-Tech-Project/blob/master/helloworld.gif' width='400'/></div>
 <h3>Q: Summarize the project and what problem it was solving.</h3>
 <p><strong>A:</strong> In this project, I needed to handle multiple interrupts from button presses to printing serial information. The device must be able to handle various events without pausing making sequences smooth. This project demonstrates my understanding of using state machines to handle interrupts and how different protocols work together for communication from software to hardware.</p>
 <h3>Q: What did you do particularly well?</h3>
